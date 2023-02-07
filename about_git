@@ -10,3 +10,5 @@ A repository, or Git project, encompasses the entire collection of files and fol
 The file history appears as snapshots in time called commits.
 The commits can be organized into multiple lines of development called branches.
 Because Git is a DVCS, repositories are self-contained units and anyone who has a copy of the repository can access the entire codebase and its history.
+
+Written by Atharva
